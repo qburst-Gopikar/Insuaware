@@ -1,4 +1,4 @@
-# ---
+# ----
 # jupyter:
 #   jupytext:
 #     text_representation:
